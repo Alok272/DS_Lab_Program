@@ -17,5 +17,6 @@ int main(){
     printf("Enter the number of disks: ");
     scanf("%d", &N);
     Tower_of_Hanoi(N, 'A', 'B', 'C');
+    printf("Alok Pandey 2501920100076");
     return 0;
 }
